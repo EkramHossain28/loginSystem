@@ -20,7 +20,7 @@ Ensure you have the Flutter SDK installed on your computer.
 1. **Clone the project:**
    ```bash
    git clone https://github.com
-   cd your-repo-name
+   cd loginSystem
    ```
 
 2. **Install packages:**
